@@ -4,3 +4,6 @@ NOTE- It runs using Ollama Gemma so that has to be installed and set up first
 server has to be run in an integrated terminal for this to work
 The personality.txt file can be edited to cutomise ais personality
 -example texts must be added I remove em cuz once again privacy
+Set up a virtual environment on .venv
+
+NOTE NOTEE:- while aspects have been individually tested the entire backend has not been tested together yet.
