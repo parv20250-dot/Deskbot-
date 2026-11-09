@@ -1,1 +1,6 @@
-
+This folder contains all the backend files for the local server
+NOTE- It runs using Ollama Gemma so that has to be installed and set up first
+.emv file has to be made with city name and pin for api, I do not add this file for privacy reasons
+server has to be run in an integrated terminal for this to work
+The personality.txt file can be edited to cutomise ais personality
+-example texts must be added I remove em cuz once again privacy
