@@ -32,6 +32,19 @@ It has been written in Python by yours truly *bows dramatically and compiled on 
 also emv files have been removed, personality.txt can be edited)
 #TO DO EXPLAIN MORE
 
+##BOM
+|Item                                  |Qty|Supplier   |Cost/item|Total Cost|link                                                                                                                                                |
+|--------------------------------------|---|-----------|---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|ESP-32-S3-ZERO                        |1  |electro:kit|$9.90    |$9.90     |https://www.electrokit.com/en/esp32-s3-dev-board-mini-4mb-psram-2mb-with-headers                                                                    |
+|MEMS microphone on board I2S - INMP441|1  |electro:kit|$4.90    |$4.90     |https://www.electrokit.com/mems-mikrofon-pa-kort-i2s-inmp441                                                                                        |
+|Perfboard                             |1  |electro:kit|$1.60    |$1.60     |https://www.electrokit.com/en/experimentkort-1-hal-30x70mm-genomplaterade-hal                                                                       |
+|Hookup wire                           |1  |electro:kit|$2.20    |$2.20     |https://www.electrokit.com/en/kopplingstrad-0.14mm2-rod-10m                                                                                         |
+|Resistor                              |1  |electro:kit|$1.20    |$1.20     |https://www.electrokit.com/en/motstand-3w-100ohm-5100r                                                                                              |
+|Passive buzzer                        |1  |electro:kit|$1.00    |$1.00     |https://www.electrokit.com/en/passive-piezo-buzzer-80db-12nf-12.5x7mm                                                                               |
+|OLED display                          |1  |jmux       |$6.50    |$6.50     |https://jmux.se/products/oled-display-0-96-inch-i2c-128x64-pixlar-for-rpi-arduino-atmega?_pos=1&_psq=0.96%22+OLED+128x64px+I2C&_psid=8185eb917&_ss=e|
+|Tactile switches                      |2  |electro:kit|$0.13    |$0.26     |https://www.electrokit.com/tryckknapp-pcb-6x6x4.3mm-svart                                                                                           |
+|Estimated total shipping              |1  |           |         |$4.00     |                                                                                                                                                    |
+
 ##Credits
 This project has been made as a part of the Half Life Program in hack club, all the code has been written by me
 I take inspo from several online guides and yt vids
