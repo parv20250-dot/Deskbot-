@@ -8,7 +8,7 @@ The cat bot is an ai desk assistant that is
 -Serves the added function of setting study hrs and replying to texts recieved during the study hours
 using Macrodroid.
 
-##AI model
+## AI model
 It uses a local ai model through Ollama (Gemma) in my current backend, however it can use any other ai model
 provided that it is installed and the backend is set up accordingly.
 
@@ -31,14 +31,14 @@ passive buzzer that beeps on receiving a notification. The electrical wiring dia
 
 The buttons are to be connected through wires, glued in place
 
-##Backend 
+## Backend 
 The backend consists of several different files, that all come together to handle most of the ai functions of the device.
 It has been written in Python by yours truly *bows dramatically and compiled on VS Code
 (note:- once again while individual aspects have been tested the whole backend has not been tested together yet
 also emv files have been removed, personality.txt can be edited)
-#TO DO EXPLAIN MORE
+# TO DO EXPLAIN MORE
 
-##BOM
+## BOM
 |Item                                  |Qty|Supplier   |Cost/item|Total Cost|link                                                                                                                                                |
 |--------------------------------------|---|-----------|---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 |ESP-32-S3-ZERO                        |1  |electro:kit|$9.90    |$9.90     |https://www.electrokit.com/en/esp32-s3-dev-board-mini-4mb-psram-2mb-with-headers                                                                    |
@@ -51,7 +51,7 @@ also emv files have been removed, personality.txt can be edited)
 |Tactile switches                      |2  |electro:kit|$0.13    |$0.26     |https://www.electrokit.com/tryckknapp-pcb-6x6x4.3mm-svart                                                                                           |
 |Estimated total shipping              |1  |           |         |$4.00     |                                                                                                                                                    |
 
-##Credits
+## Credits
 This project has been made as a part of the Half Life Program in hack club, all the code has been written by me
 I take inspo from several online guides and yt vids
 
