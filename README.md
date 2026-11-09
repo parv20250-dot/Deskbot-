@@ -1,5 +1,7 @@
 # Catbot-
+
 <img width="247" height="277" alt="front view" src="https://github.com/user-attachments/assets/26344b46-2cf3-4420-837c-9a58104cda23" />
+
 The cat bot is an ai desk assistant that is
 -Compact
 -Aesthehic
@@ -19,7 +21,11 @@ passive buzzer that beeps on receiving a notification. The electrical wiring dia
 
 <img width="237" height="418" alt="wiring d" src="https://github.com/user-attachments/assets/fba0a400-0e88-40d1-8dff-4f39507a1286" />
 
+
+
 <img width="486" height="320" alt="final sch" src="https://github.com/user-attachments/assets/b107937d-55bc-4214-89b7-66b8655ee65f" />
+
+
 
 <img width="289" height="312" alt="pcb" src="https://github.com/user-attachments/assets/4671020f-b70a-4239-8632-30ed04d22751" />
 
