@@ -1,0 +1,7 @@
+This file contains the frimware for the ai deskbot.
+It has been compiled on Arduino
+Note- Arduino libraries are necessary to run the code, additionally inofrmtaion such as wifi name, password, server link and
+Api key have been redacted for seccurity and privacy purposes. Edit the code and add in your own details.
+__________________________________________________________________________________________________________________________
+While it compiled wihout any issues,it is untested on hardware as of now and might have to be tweaked.
+
