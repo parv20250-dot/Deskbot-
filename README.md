@@ -114,6 +114,8 @@ The below table showcases the components that are used and their costs.
 |OLED display                          |1  |jmux       |$6.50    |$6.50     |https://jmux.se/products/oled-display-0-96-inch-i2c-128x64-pixlar-for-rpi-arduino-atmega?_pos=1&_psq=0.96%22+OLED+128x64px+I2C&_psid=8185eb917&_ss=e|
 |Tactile switches                      |2  |electro:kit|$0.13    |$0.26     |https://www.electrokit.com/tryckknapp-pcb-6x6x4.3mm-svart                                                                                           |
 |Estimated total shipping              |1  |           |         |$4.90     |                                                                                                                                                    |
+
+
 NOTE- For text features to work Macrodroid is also necessary, it is a paid application.
 
 ## Credits
