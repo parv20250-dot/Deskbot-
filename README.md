@@ -16,8 +16,8 @@ This
 |A     | Double press| Reject reply                   |
 |A     | Long press  | Change study mode              |
 |B     | Single press| Change cat expression          |
-|B     | Long press  | Start audio recording          |
-|B     | Release     | Stop recording and upload audio|
+|B     | Long press  | Starts recording audio         |
+|B     | Release     | Stops recording and upload audio|
 
 
 ## AI model
