@@ -56,17 +56,17 @@ The browser used in the browse function is firfox and the search engine used is 
 Unless you specifically mention the word "search" in the input the ai model cannot access the browse tool, this decision was made as I did not want to give an ai model unrestrained access over a browser, it can however use the search tool at any time.
 The tools are all written in their indiv files (cuz I wanted to text em individuallY) and then brought together and called in the tools part of the code.
 
-### Personality (note)
+#### Personality (note)
 The file persona.txt contains the personality sketch for the ai model to follow, it is based off of my own patterns and habits, which I found by analysing my own texts, asking people and LOTS of overthinking. I also lay out some ground rules for the ai model in it.
 
 <ins> note <ins> The example texts at the end of the file have been removed before uploading to GitHub for privacy reasons, if necessary add your own examples. 
 
-### Server
+#### Server
 The server or the api that allows for the ESP and the hardware components to be connected to the backend and the ai model is started each time on running the backend using FAST API. In order to create a server simply open up an integrated terminal on backend and write "uvicorn main:app --host 0.0.0.0 --port 8000" to start up the server. Use ctrl+c to close the server.
 
 The api is secured through an api key, each request is send to the server alongside the api key. It doesn't work without api key.
 
-### env files
+#### env files
 This has NOT been added into the upload (cuz yk the drill by now privacy) but in the backend files a .env file must be created with api_key and if you want to use the weather function which city you're based in
 
 
@@ -95,6 +95,8 @@ These basically but stored as bmp arrays, they are randomly selcted and displaye
 The firmware also handles button inputs and detects single presses, double presses and long presses, it also connects to wifi and handles audio recording and formatting before uploading it to backend.
 
 When you get a notification, the passive buzzer plays a beep.
+<img width="658" height="138" alt="image" src="https://github.com/user-attachments/assets/5eb2c848-ecbf-4e84-9882-122c2809cfde" />
+Add info here on firmware
 
 
 
