@@ -187,8 +187,6 @@ YAY, I STILL HAVE TO DO THE ESP CODE AND ITS 2AM KILL MEEEEEEEE
 ![image](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/1600a2fe33449637905fcff01e4d05c404ade2ac20efb3828650a8fec156b35e.png)
 I have school tomorrow ToT
 
-IF YOU ARE READING THIS IT MEANS I COULDN'T GET EXTENSION, PLS PLS PLS RETURN PPROJECT SO THAT I CAN ADD FIRMWARE
-
 ### 2026-11-11: Okayyy so this entry is about my firmware
 
 **0.5h**
